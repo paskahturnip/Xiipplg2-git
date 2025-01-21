@@ -1,0 +1,8 @@
+ini adalah resolusi xiipplg2 untuk sementara genap
+
+- Registrasi API themoviedb.org
+- Registrasi github.com
+- Registrasi gitlab.com
+- Praktik github
+    * Membuat repositori
+    * membuat file resolusi-xiipplg2.txt
